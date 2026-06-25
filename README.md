@@ -4,6 +4,6 @@ Anexo del TFG: Predicción de niebla y baja visibilidad atmosférica utilizando 
 Este repositorio contiene el material complementario del Trabajo de Fin de Grado desarrollado por Carolina García Fernández.
 
 # Estructura del Repositorio
-* **`/Códigos`**: Contiene los scripts de Python uilzados en el desarrollo de todo el trabajo.
+* **`/códigos`**: Contiene los scripts de Python uilzados en el desarrollo de todo el trabajo.
 * **`/datos`**: Datasets meteorológicos utilizados.
-* **`/Resultados totales`**: Archivos de los resultados completos de todos los modelos.
+* **`/resultados totales`**: Archivos de los resultados completos de todos los modelos.
